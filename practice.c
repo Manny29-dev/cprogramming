@@ -24,5 +24,6 @@ int main()
     hello(user); // Pass the user's name to the hello function
 
     return 0;
+    //changes made
 }
 
